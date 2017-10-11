@@ -8,4 +8,5 @@ logs/*
 tf_logs/*
 images/**/*.png
 my_*
-datasets/words
+datasets/
+datasets/
